@@ -684,14 +684,6 @@ video {
   width: 535px;
 }
 
-.w-0 {
-  width: 0px;
-}
-
-.w-\[auto\] {
-  width: auto;
-}
-
 .flex-1 {
   flex: 1 1 0%;
 }
@@ -746,22 +738,6 @@ video {
 
 .gap-\[80px\] {
   gap: 80px;
-}
-
-.gap-\[40px\] {
-  gap: 40px;
-}
-
-.gap-\[410px\] {
-  gap: 410px;
-}
-
-.gap-\[100px\] {
-  gap: 100px;
-}
-
-.gap-\[20px\] {
-  gap: 20px;
 }
 
 .border-\[1\.5px\] {
@@ -933,7 +909,7 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-svg path:hover {
+footer svg path:hover {
   fill: #2c2830;
 }
 

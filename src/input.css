@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-svg path:hover {
+footer svg path:hover {
   fill: #2c2830;
 }
